@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contacts_On_Parse</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="parse_app_id">pFdolx5cNhpsE0iECrg7IiwLqUvNSLYYqgMkhT8C</string>
+    <string name="parse_client_key">ofIA8Ua2XUeHfDRQMI1Zb8G1CZ29fzAUVTkOc7MM</string>
+    <string name="facebook_app_id">1522768331302322</string>
+    <string name="twitter_consumer_key">nBZE27mRfCZcQ1wUNo40pxCNJ</string>
+    <string name="twitter_consumer_secret">14pzP3kZLw1PQj6kov4XjR2rdvJdoApRdHWvu6XAOwK44TvkKi</string>
+
+</resources>
